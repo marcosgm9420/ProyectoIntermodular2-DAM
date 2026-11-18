@@ -1,0 +1,182 @@
+[
+  {
+    "identificador": "VFU-0001",
+    "descripcion": "Exposición de una API de pagos sin autenticación",
+    "activoAfectado": "API de pagos",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 9.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0002",
+    "descripcion": "Control de acceso insuficiente en el panel de administración",
+    "activoAfectado": "Servidor de aplicaciones",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 8.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0003",
+    "descripcion": "Manipulación de solicitudes en un servicio interno",
+    "activoAfectado": "API de clientes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+    "puntuacionBase": 7.5,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0004",
+    "descripcion": "Divulgación de información limitada en un endpoint",
+    "activoAfectado": "API de clientes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+    "puntuacionBase": 5.3,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0005",
+    "descripcion": "Acceso no autorizado a operaciones de facturación",
+    "activoAfectado": "API de facturación",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 9.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0006",
+    "descripcion": "Permisos excesivos en una cuenta de servicio",
+    "activoAfectado": "Servidor de aplicaciones",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 8.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0007",
+    "descripcion": "Alteración de datos mediante una petición no validada",
+    "activoAfectado": "Base de datos de pruebas",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+    "puntuacionBase": 7.5,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0008",
+    "descripcion": "Exposición de metadatos internos",
+    "activoAfectado": "Servidor de aplicaciones",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+    "puntuacionBase": 5.3,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0009",
+    "descripcion": "Falta de autenticación en un recurso de consulta",
+    "activoAfectado": "API de informes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 9.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0010",
+    "descripcion": "Restricción insuficiente en funciones de usuario",
+    "activoAfectado": "Portal de clientes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 8.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0011",
+    "descripcion": "Modificación no autorizada de parámetros",
+    "activoAfectado": "API de pagos",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+    "puntuacionBase": 7.5,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0012",
+    "descripcion": "Revelación de información técnica del servicio",
+    "activoAfectado": "Servidor de aplicaciones",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+    "puntuacionBase": 5.3,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0013",
+    "descripcion": "Acceso externo a una operación administrativa",
+    "activoAfectado": "API de administración",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 9.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0014",
+    "descripcion": "Validación insuficiente de privilegios",
+    "activoAfectado": "Portal de clientes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 8.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0015",
+    "descripcion": "Interrupción potencial de una operación de consulta",
+    "activoAfectado": "API de informes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+    "puntuacionBase": 7.5,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0016",
+    "descripcion": "Exposición limitada de datos de configuración",
+    "activoAfectado": "Servidor de aplicaciones",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+    "puntuacionBase": 5.3,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0017",
+    "descripcion": "Acceso no autenticado a una función crítica",
+    "activoAfectado": "API de pagos",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 9.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0018",
+    "descripcion": "Uso indebido de una cuenta con permisos restringidos",
+    "activoAfectado": "Base de datos de pruebas",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+    "puntuacionBase": 8.8,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0019",
+    "descripcion": "Modificación de información sin autorización suficiente",
+    "activoAfectado": "API de facturación",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+    "puntuacionBase": 7.5,
+    "estadoInicial": "ABIERTA"
+  },
+  {
+    "identificador": "VFU-0020",
+    "descripcion": "Divulgación de información de baja sensibilidad",
+    "activoAfectado": "Portal de clientes",
+    "versionCVSS": "3.1",
+    "vectorBase": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+    "puntuacionBase": 5.3,
+    "estadoInicial": "ABIERTA"
+  }
+]
